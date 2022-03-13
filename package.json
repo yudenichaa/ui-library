@@ -1,0 +1,10 @@
+{
+  "name": "ui-library",
+  "version": "1.0.0",
+  "description": "React UI library",
+  "main": "index.js",
+  "repository": "https://github.com/yudenichaa/ui-library.git",
+  "author": "Alexander Yudenich",
+  "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
+  "private": true
+}
